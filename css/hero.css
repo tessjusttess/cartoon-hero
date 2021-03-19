@@ -1,0 +1,49 @@
+body{
+	margin:0;
+	background-image:
+	radial-gradient(circle at 100% 150%, #21D9F0 24%, white 24%, white 28%, #21D9F0 28%, #21D9F0 36%, white 36%, white 40%, transparent 40%, transparent),
+	radial-gradient(circle at 0    150%, #21D9F0 24%, white 24%, white 28%, #21D9F0 28%, #21D9F0 36%, white 36%, white 40%, transparent 40%, transparent),
+	radial-gradient(circle at 50%  100%, white 10%, #21D9F0 10%, #21D9F0 23%, white 23%, white 30%, #21D9F0 30%, #21D9F0 43%, white 43%, white 50%, #21D9F0 50%, #21D9F0 63%, white 63%, white 71%, transparent 71%, transparent),
+	radial-gradient(circle at 100% 50%, white 5%, #21D9F0 5%, #21D9F0 15%, white 15%, white 20%, #21D9F0 20%, #21D9F0 29%, white 29%, white 34%, #21D9F0 34%, #21D9F0 44%, white 44%, white 49%, transparent 49%, transparent),
+	radial-gradient(circle at 0    50%, white 5%, #21D9F0 5%, #21D9F0 15%, white 15%, white 20%, #21D9F0 20%, #21D9F0 29%, white 29%, white 34%, #21D9F0 34%, #21D9F0 44%, white 44%, white 49%, transparent 49%, transparent);
+	background-size: 100px 50px;  
+}
+
+header{
+	text-align: center;
+	background-color: white;
+	opacity: 0.9
+
+}
+
+header h1 {
+	color: #F06621;
+	font-family: Trebuchet MS, Helvetica, Arial, sans-serif;
+	font-weight: 900
+}
+
+header img{
+	border-radius: 150px;
+
+}
+main {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #F06621;
+}
+
+footer {
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 900
+}
+
+.monalisa {
+	margin: 40px 300px;
+}
+
+.scammed {
+	margin: 40px 200px;
+}
+
+.info {
+	background-color: white;
+}
