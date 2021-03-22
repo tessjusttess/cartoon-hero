@@ -11,8 +11,9 @@ body{
 
 header{
 	text-align: center;
-	background-color: white;
-	opacity: 0.9;
+	background-color: rgba(255,255,255, 0.8);
+	border: 10px solid white;
+	border-opacity: 0.9;
 }
 
 header h1 {
@@ -21,7 +22,7 @@ header h1 {
 	font-weight: 900
 }
 
-header img{
+header img {
 	border-radius: 150px;
 
 }
@@ -44,5 +45,7 @@ footer {
 }
 
 .info {
-	background-color: white;
+	background-color: rgba(255,255,255, 0.8);
+	border: 10px solid white;
+	border-opacity: 0.9;
 }
